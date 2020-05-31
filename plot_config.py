@@ -18,4 +18,4 @@ sns.set_style("whitegrid")
 pd.options.display.max_rows = 999
 pd.options.display.max_columns = 999
 
-pd.options.display.float_format = '{:,.2f}'.format
+pd.options.display.float_format = '{:,.3f}'.format
